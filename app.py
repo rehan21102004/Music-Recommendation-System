@@ -8,7 +8,6 @@ st.set_page_config(page_title="Music Recommender", layout="wide")
 df = pickle.load(open("songs_df.pkl", "rb"))
 similarity = pickle.load(open("similarity.pkl", "rb"))
 
-# Custom CSS for modern UI
 st.markdown("""
     <style>
     .main {
