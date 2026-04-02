@@ -40,7 +40,7 @@ This project is a Music Recommendation System that suggests songs based on user 
 
 ##  How to Run
 1. Clone the repository:
-git clone https://github.com/your-username/your-repo-name.git
+git clone git clone https://github.com/rehan21102004/Music-Recommendation-System.git
 
 2. Install dependencies:
 pip install -r requirements.txt
